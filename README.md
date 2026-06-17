@@ -1,108 +1,67 @@
 # Hi, I'm Abigail Getachew 👋
 
-Frontend-focused Software Engineering student passionate about building responsive, user-centered, and visually engaging web applications.
-
-I enjoy combining frontend development, UI/UX design, and product thinking to create modern digital experiences that are both functional and meaningful.
+Frontend-focused Software Engineer building responsive, scalable, and user-centered web applications.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering student
-- 💻 Frontend-focused developer
-- 🎨 Interested in UI/UX Design & Product Thinking
-- 🌱 Currently improving full-stack development skills
-- 📱 Passionate about responsive and accessible web design
-- ⚡ Focused on continuous growth, consistency, and real-world projects
+Software Engineering graduate with experience in full-stack development and UI/UX design. I focus on building clean, maintainable, and responsive web applications using modern JavaScript technologies.
 
 ---
+
+## 🎯 What I Build
+
+I focus on building real-world web applications that combine clean UI, solid backend integration, and thoughtful user experience. I enjoy turning ideas into functional systems, not just interfaces.
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### Backend
-- Node.js
-- Nest.js
-- REST APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
 ### Database
-- MongoDB
-- PostgreSQL
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-### Tools & Design
-- Git & GitHub
-- Figma
-- Responsive Design
-- Wireframing
-- Prototyping
-- Accessibility Basics
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
-## 📌 Current Focus
+## 📊 GitHub Stats
 
-- Building full-stack web applications
-- Improving frontend architecture skills
-- Learning deployment & optimization
-- Strengthening UI/UX and accessibility practices
-- Growing technical, business, and communication mindset
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabi0l&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabi0l&layout=compact)
 
 ---
 
-## 📂 Featured Projects
+## 💼 Featured Projects
 
-### 🔹 Digital Reporting Platform
-Anonymous reporting platform for trauma, bullying, and violence reporting.
-
-- Built using React, Nest.js, and PostgreSQL
-- Real-time report submission and dashboard visualization
-- Role-based dashboard and REST API integration
+- Digital Reporting Platform (Full Stack React + NestJS + PostgreSQL)
+- FidelLinks (Frontend + UX Design)
+- The Miracle Cars (React App with filtering & search)
 
 ---
 
-### 🔹 FidelLinks
-Responsive onboarding website focused on accessibility and user experience.
+## 📫 Contact
 
-- Converted Figma designs into responsive React UI
-- Improved mobile navigation and accessibility
-- Focused on onboarding flow and content structure
-
----
-
-### 🔹 The Miracle Cars
-Responsive vehicle inventory and catalog platform.
-
-- Filtering and search functionality
-- Reusable UI components
-- Optimized layouts and image performance
-
----
-
-## 📈 Goals for 2026
-
-- Become a stronger frontend engineer
-- Build scalable and user-focused products
-- Improve problem-solving and communication skills
-- Contribute to impactful real-world projects
-
----
-
-## 🌐 Connect With Me
-
-- 💼 Portfolio: https://nabi0l.vercel.app
-- 🐙 GitHub: https://github.com/nabi0l
-- 📧 Email: abigiya.getachew00@gmail.com
+- Portfolio: https://nabi0l.vercel.app  
+- GitHub: https://github.com/nabi0l  
+- Email: abigiya.getachew00@gmail.com  
 
 ---
 
 ## ✨ Quote
 
-> “Growth comes from building, learning, failing, and continuing anyway.”
+"I build, I learn, I improve, I ship."
