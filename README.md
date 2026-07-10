@@ -79,8 +79,11 @@ A full-stack reporting system focused on secure reporting workflows and dashboar
 **Built with**
 
 React  
-Node.js  
+Nest.js  
+PostgreSQL
 Database Integration  
+
+🔗 https://safe-have-5ap4.vercel.app
 
 </td>
 
@@ -100,6 +103,8 @@ A responsive vehicle marketplace with search and filtering features.
 React  
 Modern UI Components  
 
+🔗 https://themiraclecars.com
+
 </td>
 
 
@@ -115,6 +120,7 @@ Next.js
 PostgreSQL  
 Drizzle ORM  
 
+🔗 https://inventory-management-olive-sigma.vercel.app/
 </td>
 
 </tr>
