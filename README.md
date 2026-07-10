@@ -2,188 +2,176 @@
 
 # Hi, I'm Abigiya Getachew 👋
 
-### Frontend Software Engineer | React • Next.js • TypeScript
+### Frontend Software Engineer
 
-Building responsive, accessible, and performant web applications with clean architecture and thoughtful user experiences.
+Building responsive, accessible, and user-focused web applications with React, Next.js, and TypeScript.
 
-<p>
-  <a href="https://nabi0l.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/abigail-getachew-0879b5341">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abigiya.getachew00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://nabi0l.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abigail-getachew-0879b5341">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abigiya.getachew00@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
----
-
-# About Me
-
-I'm a Software Engineering graduate passionate about creating modern web applications that combine beautiful interfaces with solid engineering.
-
-I specialize in frontend development using React, Next.js, TypeScript, and Tailwind CSS while also building scalable backend services with Node.js and NestJS.
-
-I enjoy transforming ideas into polished, production-ready products with a strong focus on usability, accessibility, and performance.
-
-🚀 Currently open to Frontend and Full-Stack Software Engineering opportunities.
 
 ---
 
-# Tech Stack
+## About Me
 
-### Frontend
+Software Engineering graduate specializing in frontend development.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
-</p>
+I enjoy creating modern web experiences that combine clean interfaces, strong performance, and maintainable code.
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel" />
-</p>
+Currently exploring advanced React patterns, Next.js, and scalable application architecture.
 
 ---
 
-# Featured Projects
+## Tech Stack
 
-## 🌍 FidelLinks
+<div align="center">
 
-A modern promotional platform designed for diaspora communities.
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,nestjs,postgres,mongodb,git,github,figma,vercel" />
 
-### Highlights
+</div>
 
-- Responsive UI
-- Design system in Figma
-- Smooth animations
-- Component-based architecture
-- Type-safe development
-
-**Stack**
-
-React • TypeScript • Tailwind CSS
-
-🔗 Live Demo: https://fidellinks.com
-
-🔗 Portfolio: https://nabi0l.vercel.app
 
 ---
 
-## 📊 Digital Reporting Platform
+## Featured Projects
 
-A full-stack reporting platform that enables secure reporting workflows with scalable backend integration.
 
-### Highlights
+<table>
+<tr>
 
-- Authentication
-- REST APIs
-- Responsive dashboard
-- Performance optimization
-- Clean architecture
+<td width="50%">
+
+### 🌍 FidelLinks
+
+A modern promotional platform built for diaspora communities.
+
+**Built with**
+
+React  
+TypeScript  
+Tailwind CSS  
+Figma  
+
+🔗 https://fidellinks.com
+
+</td>
+
+
+<td width="50%">
+
+### 📊 Digital Reporting Platform
+
+A full-stack reporting system focused on secure reporting workflows and dashboard visualization.
+
+**Built with**
+
+React  
+Node.js  
+Database Integration  
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+### 🚗 The Miracle Cars
+
+A responsive vehicle marketplace with search and filtering features.
+
+**Built with**
+
+React  
+Modern UI Components  
+
+</td>
+
+
+<td width="50%">
+
+### 📦 Inventory Management System
+
+A CRUD application with authentication, database operations, and responsive dashboard design.
+
+**Built with**
+
+Next.js  
+PostgreSQL  
+Drizzle ORM  
+
+</td>
+
+</tr>
+
+</table>
+
 
 ---
 
-## 🚗 The Miracle Cars
+## Experience
 
-A responsive car marketplace focused on speed and user experience.
 
-### Features
+### Frontend Developer Intern
 
-- Advanced filtering
-- Search functionality
-- Mobile-first design
-- Optimized React components
+**SciTech Valley**  
+February 2025 – September 2025
 
----
+- Developed reusable React components
+- Integrated REST APIs
+- Improved UI consistency and performance
+- Collaborated using Git workflows
 
-# Professional Experience
-
-## Frontend Developer Intern
-
-**SciTech Valley**
-
-*February 2025 – September 2025*
-
-- Built reusable React components across multiple projects
-- Integrated REST APIs into production applications
-- Improved application performance through optimization techniques
-- Collaborated using Git and Agile workflows
-- Participated in code reviews and UI implementation
 
 ---
 
-## Full-Stack Developer
+## GitHub Analytics
 
-**Freelance & Personal Projects**
 
-*2022 – Present*
-
-- Built complete web applications from UI design to deployment
-- Developed secure REST APIs
-- Designed responsive interfaces with accessibility in mind
-- Integrated PostgreSQL and MongoDB databases
-
----
-
-# Currently Learning
-
-- Advanced React Patterns
-- Next.js
-- System Design
-- Testing with Jest
-
----
-
-# GitHub Stats
-
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nabi0l&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabi0l&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
 
 ---
 
-# What I Enjoy Building
+## Currently Learning
 
-- SaaS Dashboards
-- Landing Pages
-- Admin Panels
-- Business Websites
-- Design Systems
-- Full-Stack Applications
+🌱 Next.js advanced patterns  
+🌱 System Design  
+🌱 Testing and clean architecture  
+
 
 ---
 
-# Let's Connect
+<div align="center">
 
-I'm always interested in collaborating on meaningful projects and exploring new opportunities.
+### Let's Connect
 
-📧 **Email:** abigiya.getachew00@gmail.com
+Open to frontend and full-stack opportunities.
 
-🌐 **Portfolio:** https://nabi0l.vercel.app
+Portfolio • LinkedIn • Email
 
-💼 **LinkedIn:** https://linkedin.com/in/abigail-getachew-0879b5341
 
----
+*"Clean code. Thoughtful design. Better experiences."*
 
-> **Clean code. Thoughtful design. Better user experiences.**
+</div>
